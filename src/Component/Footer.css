@@ -1,0 +1,47 @@
+.card-footer {
+  padding: 0.75rem 1.25rem;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-top: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.border-success {
+  border-color: #28a745!important;
+}
+
+.bg-transparent {
+  background-color: transparent!important;
+}
+
+.first {
+  position: relative;
+  background: transparent;
+  float: right;
+}
+
+.second {
+    position: relative;
+    background: transparent;
+    /* float: right; */
+}
+
+.btn:not(:disabled):not(.disabled) {
+  cursor: pointer;
+}
+
+
+.btn-dark {
+  color: #fff;
+  background-color: #343a40;
+  border-color: #343a40;
+}
+
+.button {
+  text-align: center;
+  border-radius: 5px;
+  width: 80px;
+  padding-left: 5px;
+  padding-right: 5px;
+  position: relative;
+  color: white;
+  margin: 0 2px 0 2px;
+}
